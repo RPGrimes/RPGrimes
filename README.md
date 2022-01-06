@@ -5,9 +5,7 @@
 [About Me](#AboutMe) | [Featured Projects](#FeaturedProjects) | [Skills](#Skills) | [Work Experience](#WorkExperience) | [Education](#Education) | [Personal Interests](#PersonalInterests) | [Contact](#Contact)
 </div>
 
-<a name="AboutMe">About Me</a>
-
-### About Me
+### <a name="AboutMe">About Me</a>
 
 I am a determined and driven aspiring full-stack developer with a background in engineering and geology. I am looking to join a team in a positive and supportive environment where principles such as TDD are followed and where a growth mindset is encouraged.
 
@@ -15,9 +13,7 @@ My interest in coding began in 2020 where I completed online JavaScript and Ruby
 
 After five years of working as an engineering geologist in the construction industry I decided wanted a new and more fulfilling challenge as a developer. Therefore, I am currently enrolled at [Makers](https://makers.tech/), a highly selective intensive coding program.
 
-<a name="FeaturedProjects">Featured Projects</a>
-
-### Featured Projects
+### <a name="FeaturedProjects">Featured Projects</a>
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -25,9 +21,7 @@ After five years of working as an engineering geologist in the construction indu
 | [**News Summary Challenge**](https://github.com/RPGrimes/news-summary-challenge) | An individual weekend challenge where the task was to generate a news page utilising an API. | JavaScript, Jest, APIs, CSS, HTML, git |
 | [**Makers BnB**](https://github.com/RPGrimes/Makers_BnB) | Team engineering challenge where the goal was to build an AirBnB clone | Ruby, RSpec, Sinatra, Capybara, BCrypt, PostgreSQL, Bootstrap CSS, HTML, git  |
 
-<a name="Skills">Skills</a>
-
-### Skills
+### <a name="Skills">Skills</a>
 
 **Languages** - Ruby (Sinatra, Capybara, RSpec), JavaScript (Jest), PostgreSQL, HTML, CSS, as well as proficiency in using the command line
 
@@ -37,9 +31,7 @@ After five years of working as an engineering geologist in the construction indu
 
 **Detail focused** - Regularly peer reviewing colleagues reports and calculations was always quality assurance prior to issuing client reports in my last role. This well-established behaviour is one I carry across to 'quality check' my code using TDD and helps me write code that is easily readable and succinct.
 
-<a name="WorkExperience">Work Experience</a>
-
-### Work Experience
+### <a name="WorkExperience">Work Experience</a>
 
 #### Card Geotechnics Limited (September 2016 to August 2021)  
 ##### Senior Engineer (June 2019 to August 2021)
@@ -53,9 +45,7 @@ After five years of working as an engineering geologist in the construction indu
 - Review and interpretation of data sets to manipulate for use for geotechnical design purposes; and
 - Working between several teams (geotechnical, geoenvironmental and engineering geology) in a collaborative manner throughout the course of a project lifetime.
 
-<a name="Education">Education</a>
-
-### Education
+### <a name="Education">Education</a>
 
 #### Makers Academy (October 2021 to January 2021)
 - Highly selective 12-week software engineering bootcamp using Ruby, JavaScript, Rails, Sinatra, RSpec, Capybara and Jest
@@ -83,9 +73,7 @@ After five years of working as an engineering geologist in the construction indu
 - The College of Richard Collyer - A Levels: Geology, Maths, I.T., AS Levels: Physics, World Development
 - Tanbridge House School - GCSEs: 12 A* or A Grades
 
-<a name="PersonalInterests">Personal Interests</a>
-
-### Personal Interests
+### <a name="PersonalInterests">Personal Interests</a>
 
 - **Cricket**: I am a keen cricketer who's ability unfortunately does not match my level of enthusiasm
 - **Football**: Much like with cricket, enthusiasm > ability, but that doesn't stop me playing 5-a-side, 6-a-side or 11-a-side whenever I can!
@@ -93,6 +81,6 @@ After five years of working as an engineering geologist in the construction indu
 - **Travel**: Visiting new places, experiencing new cultures (and cuisines as mentioned above!) and meeting new people are all aspects of travel that appeal
 - **Gaming**: Not quite as avid as I was during my teenage years, but I still thoroughly enjoy spending some of my free time on my computer or PlayStation
 
-<a name="Contact">Contact Details</a>
+### <a name="Contact">Contact Details</a>
 
 - Please feel free to contact me via my [GitHub](https://github.com/RPGrimes) profile or [LinkedIn](https://www.linkedin.com/in/ryanpgrimes/) account!
