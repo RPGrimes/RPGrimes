@@ -2,11 +2,10 @@
 
 <img src ="https://github-readme-stats.vercel.app/api?username=EMdevelop&&show_icons=true&theme=panda&hide_rank=true&border_radius=5&hide_title=true">
 
-<div className='links'>
 [About Me](#AboutMe) | [Featured Projects](#FeaturedProjects) | [Skills](#Skills) | [Work Experience](#Work Experience) | [Education](#Education) | [Personal Interests](#Personal Interests) | [Contact](#Contact)
 </div>
 
-<div className='AboutMe'>
+<a name="AboutMe">About Me</a>
 
 ### About Me
 
@@ -15,9 +14,8 @@ I am a determined and driven aspiring full-stack developer with a background in 
 My interest in coding began in 2020 where I completed online JavaScript and Ruby tutorials and **loved** them! I particularly enjoy that coding incorporates a blend of creative thinking with logical reasoning and problem solving. The more I learnt about coding, the more I wanted to learn and it became abundantly apparent to me that I needed to pursuit a career in the discipline.
 
 After five years of working as an engineering geologist in the construction industry I decided wanted a new and more fulfilling challenge as a developer. Therefore, I am currently enrolled at [Makers](https://makers.tech/), a highly selective intensive coding program.
-</div>
 
-<div className='FeaturedProjects'>
+<a name="FeaturedProjects">Featured Projects</a>
 
 ### Featured Projects
 
@@ -27,9 +25,7 @@ After five years of working as an engineering geologist in the construction indu
 | [**News Summary Challenge**](https://github.com/RPGrimes/news-summary-challenge) | An individual weekend challenge where the task was to generate a news page utilising an API. | JavaScript, Jest, APIs, CSS, HTML, git |
 | [**Makers BnB**](https://github.com/RPGrimes/Makers_BnB) | Team engineering challenge where the goal was to build an AirBnB clone | Ruby, RSpec, Sinatra, Capybara, BCrypt, PostgreSQL, Bootstrap CSS, HTML, git  |
 
-</div>
-
-<div className='Skills'>
+<a name="Skills">Skills</a>
 
 ### Skills
 
@@ -41,9 +37,7 @@ After five years of working as an engineering geologist in the construction indu
 
 **Detail focused** - Regularly peer reviewing colleagues reports and calculations was always quality assurance prior to issuing client reports in my last role. This well-established behaviour is one I carry across to 'quality check' my code using TDD and helps me write code that is easily readable and succinct.
 
-</div>
-
-<div className='WorkExperience'>
+<a name="WorkExperience">Work Experience</a>
 
 ### Work Experience
 
@@ -59,9 +53,7 @@ After five years of working as an engineering geologist in the construction indu
 - Review and interpretation of data sets to manipulate for use for geotechnical design purposes; and
 - Working between several teams (geotechnical, geoenvironmental and engineering geology) in a collaborative manner throughout the course of a project lifetime.
 
-</div>
-
-<div className='Education'>
+<a name="Education">Education</a>
 
 ### Education
 
@@ -91,9 +83,7 @@ After five years of working as an engineering geologist in the construction indu
 - The College of Richard Collyer - A Levels: Geology, Maths, I.T., AS Levels: Physics, World Development
 - Tanbridge House School - GCSEs: 12 A* or A Grades
 
-</div>
-
-<div className='PersonalInterests'>
+<a name="PersonalInterests">Personal Interests</a>
 
 ### Personal Interests
 
@@ -103,10 +93,6 @@ After five years of working as an engineering geologist in the construction indu
 - **Travel**: Visiting new places, experiencing new cultures (and cuisines as mentioned above!) and meeting new people are all aspects of travel that appeal
 - **Gaming**: Not quite as avid as I was during my teenage years, but I still thoroughly enjoy spending some of my free time on my computer or PlayStation
 
-</div>
-
-<div className='Contact'>
+<a name="Contact">Contact Details</a>
 
 - Please feel free to contact me via my [GitHub](https://github.com/RPGrimes) profile or [LinkedIn](https://www.linkedin.com/in/ryanpgrimes/) account!
-
-</div>
