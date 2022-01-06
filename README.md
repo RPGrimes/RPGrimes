@@ -2,7 +2,7 @@
 
 <img src ="https://github-readme-stats.vercel.app/api?username=EMdevelop&&show_icons=true&theme=panda&hide_rank=true&border_radius=5&hide_title=true">
 
-[About Me](#AboutMe) | [Featured Projects](#FeaturedProjects) | [Skills](#Skills) | [Work Experience](#Work Experience) | [Education](#Education) | [Personal Interests](#Personal Interests) | [Contact](#Contact)
+[About Me](#AboutMe) | [Featured Projects](#FeaturedProjects) | [Skills](#Skills) | [Work Experience](#WorkExperience) | [Education](#Education) | [Personal Interests](#PersonalInterests) | [Contact](#Contact)
 </div>
 
 <a name="AboutMe">About Me</a>
