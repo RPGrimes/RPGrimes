@@ -23,7 +23,7 @@ After five years of working as an engineering geologist in the construction indu
 
 ### <a name="Skills">Skills</a>
 
-**Languages** - Ruby (Sinatra, Capybara, RSpec), JavaScript (Jest), PostgreSQL, HTML, CSS, as well as proficiency in using the command line
+**Languages** - Ruby (Sinatra, Rails, Capybara, RSpec), JavaScript (Jest), PostgreSQL, HTML, CSS, as well as proficiency in using the command line
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPGrimes&layout=compact&theme=panda)](https://github.com/RPGrimes/github-readme-stats)
 
