@@ -1,6 +1,6 @@
 ## Ryan Grimes
 
-<img src ="https://github-readme-stats.vercel.app/api?username=EMdevelop&&show_icons=true&theme=panda&hide_rank=true&border_radius=5&hide_title=true">
+![stats](https://github-readme-stats.vercel.app/api?username=RPGrimes&show_icons=true&&count_private=true&include_all_commits=true)
 
 [About Me](#AboutMe) | [Featured Projects](#FeaturedProjects) | [Skills](#Skills) | [Work Experience](#WorkExperience) | [Education](#Education) | [Personal Interests](#PersonalInterests) | [Contact](#Contact)
 </div>
