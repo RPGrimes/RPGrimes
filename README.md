@@ -17,9 +17,9 @@ After five years of working as an engineering geologist in the construction indu
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| [**Acebook**](https://github.com/RPGrimes/Acebook) | Team engineering challenge where the goal was to build an social media close, takign inspiration from Facebook | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, Bootstrap CSS, HTML, git |
 | [**Thermostat**](https://github.com/RPGrimes/Thermostat) | Pair-programming challenge where the task was to build a thermometer that can be set/changed via the command line. It also utilises a weather API to call the temperature from an entered city | JavaScript, Jest, APIs, HTML, git  |
 | [**News Summary Challenge**](https://github.com/RPGrimes/news-summary-challenge) | An individual weekend challenge where the task was to generate a news page utilising an API. | JavaScript, Jest, APIs, CSS, HTML, git |
-| [**Makers BnB**](https://github.com/RPGrimes/Makers_BnB) | Team engineering challenge where the goal was to build an AirBnB clone | Ruby, RSpec, Sinatra, Capybara, BCrypt, PostgreSQL, Bootstrap CSS, HTML, git  |
 
 ### <a name="Skills">Skills</a>
 
