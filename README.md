@@ -17,6 +17,7 @@ After five years of working as an engineering geologist in the construction indu
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| [**Heyday**](https://github.com/RPGrimes/Heyday) | Final project completed at Makers Academy as part of a team. This application helps to organize a meetup of friends by choosing a date for them based on the whole group’s availability and preferences, all while maintaining individuals’ privacy and not storing any user data. | ReactJS, ExpressJS, Jest, SCSS, HTML, Heroku, Vercel, git  |
 | [**Acebook**](https://github.com/RPGrimes/Acebook) | Team engineering challenge where the goal was to build an social media close, taking inspiration from Facebook | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, Bootstrap CSS, HTML, git |
 | [**News Summary Challenge**](https://github.com/RPGrimes/news-summary-challenge) | An individual weekend challenge where the task was to generate a news page utilising an API. | JavaScript, Jest, APIs, CSS, HTML, git |
 | [**Bank Tech Test**](https://https://github.com/RPGrimes/bankTechTest) | An individual tech test undertaken during Week 10 of the Makers Academy course to showcase clean code that logs deposits and withdrawals from a bank account and can show a statement detailing an account transaction history | JavaScript, Node JS, Jest, git  |
@@ -24,7 +25,7 @@ After five years of working as an engineering geologist in the construction indu
 
 ### <a name="Skills">Skills</a>
 
-**Languages** - Ruby (Sinatra, Rails, Capybara, RSpec), JavaScript (Jest), PostgreSQL, HTML, CSS, as well as proficiency in using the command line
+**Languages** - Ruby (Sinatra, Rails, Capybara, RSpec), JavaScript (React, Node, Express, Jest, ES6), PostgreSQL, HTML, CSS, SCSS as well as proficiency in using the command line
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPGrimes&layout=compact&theme=panda)](https://github.com/RPGrimes/github-readme-stats)
 
