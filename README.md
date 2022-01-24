@@ -1,6 +1,5 @@
-## Ryan Grimes
-
-![stats](https://github-readme-stats.vercel.app/api?username=RPGrimes&show_icons=true&&count_private=true&include_all_commits=true)
+<div align="center">
+  <h1> Ryan Grimes </h1>
 
 [About Me](#AboutMe) | [Featured Projects](#FeaturedProjects) | [Skills](#Skills) | [Work Experience](#WorkExperience) | [Education](#Education) | [Personal Interests](#PersonalInterests) | [Contact](#Contact)
 </div>
@@ -86,3 +85,5 @@ After five years of working as an engineering geologist in the construction indu
 ### <a name="Contact">Contact Details</a>
 
 - Please feel free to contact me via my [GitHub](https://github.com/RPGrimes) profile or [LinkedIn](https://www.linkedin.com/in/ryanpgrimes/) account!
+
+![stats](https://github-readme-stats.vercel.app/api?username=RPGrimes&show_icons=true&&count_private=true&include_all_commits=true)
