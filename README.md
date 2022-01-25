@@ -1,8 +1,7 @@
 <div align="center">
  <h1> Ryan Grimes </h1>
   <p>Please click on the image below to view my portfolio site and CV!</p>
- <a href="https://ryangrimes.vercel.app/"><img src="![Website screenshot](https://user-images.githubusercontent.com/75947453/150962053-978bad02-1f0b-4b42-a1e7-ff44180949a3.png)
-"  height="auto" width="80%" style="border-radius:15px;"></a>
+ <a href="https://ryangrimes.vercel.app/"><img src="https://user-images.githubusercontent.com/75947453/150962053-978bad02-1f0b-4b42-a1e7-ff44180949a3.png"  height="auto" width="80%" style="border-radius:15px;"></a>
 
 [About Me](#AboutMe) | [Featured Projects](#FeaturedProjects) | [Skills](#Skills) | [Work Experience](#WorkExperience) | [Education](#Education) | [Personal Interests](#PersonalInterests) | [Contact](#Contact)
 </div>
