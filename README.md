@@ -12,7 +12,7 @@ I am a determined and driven aspiring full-stack developer with a background in 
 
 My interest in coding began in 2020 when I completed online JavaScript and Ruby tutorials and loved them! I particularly enjoy that coding incorporates a blend of creative thinking with logical reasoning and problem-solving. The more I learned about coding, the more I wanted to learn and it became abundantly apparent to me that I needed to pursue a career in the discipline.
 
-After five years of working as an engineering geologist in the construction industry, I decided wanted a new and more fulfilling challenge as a developer. Therefore, I successfully completed a coding bootcamp with [Makers](https://makers.tech/), a highly selective intensive coding program.
+After five years of working as an engineering geologist in the construction industry, I decided I wanted a new and more fulfilling challenge as a developer. Therefore, I successfully completed a coding bootcamp with [Makers](https://makers.tech/), a highly selective intensive coding program.
 
 ### <a name="FeaturedProjects">Featured Projects</a>
 
