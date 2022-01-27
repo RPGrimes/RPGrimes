@@ -10,7 +10,7 @@
 
 I am a determined and driven aspiring full-stack developer with a background in engineering and geology. I am looking to join a team in a positive and supportive environment where principles such as TDD are followed and where a growth mindset is encouraged.
 
-My interest in coding began in 2020 when I completed online JavaScript and Ruby tutorials and loved them! I particularly enjoy that coding incorporates a blend of creative thinking with logical reasoning and problem-solving. The more I learned about coding, the more I wanted to learn and it became abundantly apparent to me that I needed to pursue a career in the discipline.
+My interest in coding began in 2020 when I completed online JavaScript and Ruby tutorials and loved them! I particularly enjoy that coding incorporates a blend of creative thinking with logical reasoning and problem-solving. The more I learned about coding, the more I wanted to learn and it became abundantly clear to me that I needed to pursue a career in this discipline.
 
 After five years of working as an engineering geologist in the construction industry, I decided I wanted a new and more fulfilling challenge as a developer. Therefore, I successfully completed a coding bootcamp with [Makers](https://makers.tech/), a highly selective intensive coding program.
 
@@ -18,8 +18,8 @@ After five years of working as an engineering geologist in the construction indu
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Heyday**](https://github.com/RPGrimes/Heyday) | Final project completed at Makers Academy as part of a team. This application helps to organize a meetup of friends by choosing a date for them based on the whole group’s availability and preferences, all while maintaining individuals’ privacy and not storing any user data. | ReactJS, ExpressJS, Jest, SCSS, HTML, Heroku, Vercel, git  |
-| [**Acebook**](https://github.com/RPGrimes/Acebook) | Team engineering challenge where the goal was to build an social media close, taking inspiration from Facebook | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, Bootstrap CSS, HTML, git |
+| [**Heyday**](https://github.com/RPGrimes/Heyday) | Final team project completed at Makers Academy. This application helps to organise a meetup of friends by choosing a date for them based on the whole group’s availability and preferences, all while maintaining individuals’ privacy and not storing any user data. | ReactJS, ExpressJS, Jest, SCSS, HTML, Heroku, Vercel, git  |
+| [**Acebook**](https://github.com/RPGrimes/Acebook) | Team engineering challenge where the goal was to build a social media clone, taking inspiration from Facebook | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, Bootstrap CSS, HTML, git |
 | [**News Summary Challenge**](https://github.com/RPGrimes/news-summary-challenge) | An individual weekend challenge where the task was to generate a news page utilising an API. | JavaScript, Jest, APIs, CSS, HTML, git |
 | [**Bank Tech Test**](https://https://github.com/RPGrimes/bankTechTest) | An individual tech test undertaken during Week 10 of the Makers Academy course to showcase clean code that logs deposits and withdrawals from a bank account and can show a statement detailing an account transaction history | JavaScript, Node JS, Jest, git  |
 | [**Thermostat**](https://github.com/RPGrimes/Thermostat) | Pair-programming challenge where the task was to build a thermometer that can be set/changed via the command line. It also utilises a weather API to call the temperature from an entered city | JavaScript, Jest, APIs, HTML, git  |
@@ -32,7 +32,7 @@ After five years of working as an engineering geologist in the construction indu
 
 **Excellent communication time management and teamworking** - During my time as an engineering geologist, I routinely managed a number of projects spanning multiple disciplines simultaneously. In order for this to be manageable and for all projects to meet their requirements, deadlines and budgets the teams had to regularly liaise with one another to provide updates on how work was progressing, any issues they may have encountered and how they were planning to proceed in a clear and concise manner. Having these skills has helped me to articulate a concept when I am explaining it to others and aided me with pair programming/group work.
 
-**Detail focused** - Regularly peer reviewing colleagues reports and calculations was always quality assurance prior to issuing client reports in my last role. This well-established behaviour is one I carry across to 'quality check' my code using TDD and helps me write code that is easily readable and succinct.
+**Detail focused** - Regularly peer reviewing colleagues reports and calculations was always carried out as part of quality assurance prior to issuing client reports in my last role. This well-established behaviour is one I carry across to 'quality check' my code using TDD and helps me write code that is easily readable and succinct.
 
 ### <a name="WorkExperience">Work Experience</a>
 
@@ -55,7 +55,7 @@ After five years of working as an engineering geologist in the construction indu
 - Emphasis on Test Driven Development, pair programming and agile methodologies
 - Full stack web development
 - XP values
-- Object-Orientated Design; and 
+- Object-Orientated Design 
 - Enhanced independent learning and problem-solving skills
 
 #### University of Portsmouth (September 2015 to August 2016)
