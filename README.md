@@ -50,7 +50,8 @@ After five years of working as an engineering geologist in the construction indu
 
 ### <a name="Education">Education</a>
 
-#### Makers Academy (October 2021 to January 2021)
+#### Makers Academy (October 2021 to January 2021) - Software Engineering Bootcamp
+**Software Engineering Bootcamp**
 - Highly selective 12-week software engineering bootcamp using Ruby, JavaScript, Rails, Sinatra, RSpec, Capybara and Jest
 - Emphasis on Test Driven Development, pair programming and agile methodologies
 - Full stack web development
@@ -58,14 +59,12 @@ After five years of working as an engineering geologist in the construction indu
 - Object-Orientated Design 
 - Enhanced independent learning and problem-solving skills
 
-#### University of Portsmouth (September 2015 to August 2016)
-**Master of Science (MSc), Engineering Geology**
-- Distinction (achieved)
+#### University of Portsmouth (September 2015 to August 2016) - Master of Science (MSc), Engineering Geology
+- **Distinction (achieved)**
 - Thesis - The influence of auger rotation speed on the shaft adhesion factor for piles bored within the London Clay Formation using the Continuous Flight Auger (CFA) method
 
-#### Royal Holloway, University of London (September 2012 to June 2015)
-**Bachelor of Science (BSc), Geology**
-- Upper 2nd Class (2.1) (achieved)
+#### Royal Holloway, University of London (September 2012 to June 2015) - Bachelor of Science (BSc), Geology
+- **Upper 2nd Class (2.1) (achieved)**
 - Independent mapping project - "Geological Field Mapping and Interpretation of the Gállego Gorge/Mallos de Gállego Area, Murillo de Gállego, Spanish Pyrenees"
 
 ##### Other Education
